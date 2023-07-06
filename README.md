@@ -1,7 +1,5 @@
 # Bloc 5 - Industrialisation d'un algorithme d'apprentissage automatique et automatisation des processus de décision - Getaround analysis
 
-[Presentation video](https://share.vidyard.com/watch/1ke5pSftHJgm8rb7yBQXwF?)
-
 Dashboard: https://cnmgetaroundanalysis.herokuapp.com
 
 API: https://cnmgetaroundprediction.herokuapp.com/docs
